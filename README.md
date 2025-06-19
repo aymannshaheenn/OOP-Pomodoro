@@ -64,7 +64,7 @@ A fully-featured **Pomodoro Timer and Task Manager** built with **Object-Oriente
 1. **Clone the Repository**
 
    ```bash
-   git clone 
+   git clone https://github.com/aymannshaheenn/OOP-Pomodoro
    cd pomodoro-task-manager
    ```
 
